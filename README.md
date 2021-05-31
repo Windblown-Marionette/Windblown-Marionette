@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Windblown-Marionette AKA Michael J Holt
 - 👀 I’m interested in machine learning.
-- 🌱 I’m currently learning sklearn and opencv-python.
+- 🌱 I’m currently learning sklearn, opencv-python, and interpretable machine learning.
 - 💞️ I’m looking to collaborate on data analytics and machine learning for good causes.
 - 📫 Reach out to me on LinkedIn: https://www.linkedin.com/in/michael~j~holt/
 
